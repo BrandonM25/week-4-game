@@ -1,0 +1,17 @@
+.panel {
+    padding: 20px;
+    margin: 20px;
+}
+
+#instructions {
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+
+.panel-heading {
+    padding: 20px;
+    background-color: lightgray;
+    border: 1px solid black;
+    border-radius: 15px;
+}
