@@ -1,3 +1,8 @@
+.jumbotron {
+    border: 1px solid black;
+    text-align: center;
+}
+
 .panel {
     padding: 20px;
     margin: 20px;
@@ -7,7 +12,6 @@
     border: 1px solid black;
     border-radius: 15px;
 }
-
 
 .panel-heading {
     padding: 20px;
